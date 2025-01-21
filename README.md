@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## Steps to Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Open the project in VSCode and then open the terminal in the same folder
+2. Run commands "flutter clean" then "flutter pub get"
+3. After success go to iOS folder using "cd ios" and run command "pod install"
+4. If all these work fine then the project should be able to run
+5. If still not working then its maybe an issue of different environments setup
